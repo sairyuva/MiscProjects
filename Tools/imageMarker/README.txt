@@ -1,4 +1,4 @@
-Image Marker v1.2
+Image Marker v1.1
 This program enables user to mark image using a rectangular selection tool.It was
 created for marking images and saving the coordinates in a text file that would be
 useful in haartraining session.
